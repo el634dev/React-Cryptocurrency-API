@@ -5,7 +5,7 @@ This project was created using Javascript, React Hooks, CSS3 and Axios.
 The API used for this project is public and can be found at https://www.coingecko.com/en/api/documentation?. 
 After scrolled down to coins and see a list called GET and click on the second list called /coins/market.
 
-### The tutorial that was used for this project can be found at https://www.youtube.com/watch?v=9ohK7CapmIs for more information and a visual walkthrough of the project.
+### The tutorial that was used for more information for this project can be found at https://www.youtube.com/watch?v=9ohK7CapmIs for more information and a visual walkthrough of the project.
 
 In the project directory, you can run:
 ### `npm create react app react-api crypto-tracker-v1`
@@ -13,7 +13,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open (http://localhost:3000) to view it in your browser.
 
 The page will reload if you make edits and will save the page once you reload.
 You will also see any lint errors in the console, npm and in the browser.
