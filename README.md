@@ -2,6 +2,7 @@
 # Getting Started with React Crypto App
 
 This project was created using Javascript, React Hooks, CSS3 and Axios.
+This project was created for practice using APIs inside of React.
 The API used for this project is public and can be found at https://www.coingecko.com/en/api/documentation?. 
 After scrolled down to coins and see a list called GET and click on the second list called /coins/market.
 
@@ -16,8 +17,7 @@ Runs the app in the development mode.\
 Open (http://localhost:3000) to view it in your browser.
 
 The page will reload if you make edits and will save the page once you reload.
-You will also see any lint errors in the console, npm and in the browser.
-Testing is not necessary for this project.
+You will also see any lint errors in the terminal, node command prompt and in the browser.
 
 ## Learn More
 
