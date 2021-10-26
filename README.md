@@ -1,4 +1,5 @@
 # React-Cryptocurrency-API
+Licensed Under MIT - just say where you got it from
 # Getting Started with React Crypto App
 
 This project was created using Javascript, React Hooks, CSS3 and Axios.
