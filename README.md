@@ -1,10 +1,10 @@
 # React-Cryptocurrency-API
-Licensed Under MIT - just say where you got it from
-# Getting Started with React Crypto App
-
-This project was created using Javascript, React Hooks, CSS3 and Axios.
-This project was created for practice using APIs inside of React.
-The API used for this project is public and can be found at https://www.coingecko.com/en/api/documentation?. 
+This project was created for practice using APIs with React.
+# License Translation
+You can use the code just say where you got it from
+# Dev Dependencies
+Javascript, React Hooks, CSS3, CoinGecko API and Axios.
+The API used for this project is public and can be found at (https://www.coingecko.com/en/api/documentation?). 
 After scrolled down to coins and see a list called GET and click on the second list called /coins/market.
 
 # More Information 
