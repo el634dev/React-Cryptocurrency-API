@@ -3,7 +3,8 @@ This project was created for practice using APIs with React.
 # License Translation
 You can use the code just say where you got it from
 # Dev Dependencies
-CoinGecko API/Axios
+CoinGecko API, Axios
+
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
