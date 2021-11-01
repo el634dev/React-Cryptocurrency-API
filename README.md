@@ -3,7 +3,11 @@ This project was created for practice using APIs with React.
 # License Translation
 You can use the code just say where you got it from
 # Dev Dependencies
-Javascript, React Hooks, CSS3, CoinGecko API and Axios.
+CoinGecko API/Axios
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+
 The API used for this project is public and can be found at (https://www.coingecko.com/en/api/documentation?). 
 After scrolled down to coins and see a list called GET and click on the second list called /coins/market.
 
